@@ -25,7 +25,7 @@ Additionally, all Notebooks offer both **brain-wide analysis** (results from bot
 
 ## Prerequisites
 
-A recent Python installation (e.g. Python 3.8 or newer) with common data-analysis libraries available, such as NumPy and Pandas. These are included by default in distributions like Anaconda, but can also be installed manually via pip.
+A recent Python installation (e.g. Python 3.8 or newer) with common data-analysis packages, such as NumPy and Pandas. These are included by default in distributions like Anaconda, but can also be installed manually via pip.
 
 ## Citation
 Please cite the original article when using or building upon this code.
